@@ -1,32 +1,24 @@
-/*Task 4.a int number=0;
+// Task 4.a
+/*int number;
+  for(number=0;number<=20;number++)
+  {println(number);
+  }
+  */
 
-void draw()
+//Task 4.b
+/*
+int number;
+
+for(number=0;number<=20;number++)
 {
-if (number <=20)
-{
-println(number);
-}
-number++;
-}
-*/
-
-/* Task 4.b
-
-int number=0;
-
-void draw()
-{
-if (number%2==0 && number<21)
+  if (number%2==0 && number<21)
 {
 println(number);
 }
-number++;
 }
-
 */
-
-/*Task 4c
-
+//*Task 4c
+/*
 int number=0;
 void draw()
 {
