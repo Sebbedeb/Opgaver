@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 int bossChanceToHit;
 int bossDamage;
 int playerHealth;
@@ -6,3 +7,13 @@ int playerChanceToHit;
 int playerDamage;
 Player Player1;
 Boss Boss1;
+=======
+int bossChanceToHit;
+int bossDamage;
+int playerHealth;
+int playerAC;
+int playerChanceToHit;
+int playerDamage;
+Player Player1;
+Boss Boss1;
+>>>>>>> 25f179f1135edf323f1826858b491cb3bdaf887d
